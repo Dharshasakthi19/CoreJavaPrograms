@@ -1,4 +1,4 @@
-//Program to define class Notepad 
+//Program to define class Notepad
 package Multilevelinheritance.texteditor;
 
 public class Notepad {
